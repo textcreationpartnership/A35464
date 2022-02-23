@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the west end of Exeter Change above stairs in the Strand, will be exposed to sale by way of auction, a curious collection of original paintings, and other fine copies, by the best masters of Europe, some fit for ladies closets, stair-cases, chimney-pieces, and for halls, &amp;c. On Wednesday the 13th. Thursday the 14th. Friday the 15th. of this instant January Beginning exactly at four of the clock each afternoon, and so continue daily until all be sold. Catalogues may be had at Mr. Playford's next the Temple-Church in the Temple, and at the place of sale gratis. By F. Verryck. The conditions of sale. I. That he or she that bids most is the buyer; ... IV. That no person is to bid less than six pence a time for any lot exposed to sale.</title>
+            <author>Verryck, Ferdinando.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35464</idno>
+            <idno type="STC">Wing C7641</idno>
+            <idno type="STC">ESTC R214380</idno>
+            <idno type="EEBO-CITATION">99826559</idno>
+            <idno type="PROQUEST">99826559</idno>
+            <idno type="VID">30962</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35464)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30962)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the west end of Exeter Change above stairs in the Strand, will be exposed to sale by way of auction, a curious collection of original paintings, and other fine copies, by the best masters of Europe, some fit for ladies closets, stair-cases, chimney-pieces, and for halls, &amp;c. On Wednesday the 13th. Thursday the 14th. Friday the 15th. of this instant January Beginning exactly at four of the clock each afternoon, and so continue daily until all be sold. Catalogues may be had at Mr. Playford's next the Temple-Church in the Temple, and at the place of sale gratis. By F. Verryck. The conditions of sale. I. That he or she that bids most is the buyer; ... IV. That no person is to bid less than six pence a time for any lot exposed to sale.</title>
+                  <author>Verryck, Ferdinando.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice_of_auction">
+            <pb facs="tcp:30962:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>At the <hi>Weſt</hi> End of EXETER Change Above Stairs in the STRAND, Will be expoſed to Sale by way of <hi>Auction,</hi> a Curious Collection of Original <hi>Paintings,</hi> and other fine Copies, by the beſt Maſters of <hi>Europe,</hi> ſome fit for Ladies Cloſets, Stair-Caſes, Chimney-pieces, and for Halls, <hi>&amp;c.</hi> On Wedneſday the 13th. Thurſday the 14th. Friday the 15th. of this Inſtant <hi>January.</hi> Beginning exactly at Four of the Clock each Afternoon, and ſo continue daily until all be Sold. Catalogues may be had at Mr. <hi>Playford's</hi> next the <hi>Temple-Church</hi> in the <hi>Temple,</hi> and at the place of Sale Gratis. By <hi>F. Verryck.</hi>
+            </p>
+            <list>
+               <head>The CONDITIONS of SALE.</head>
+               <item>
+                  <hi>I.</hi> That he or ſhe that bids moſt is the Buyer; and if any Difference ariſe, which the Company cannot decide, then the ſaid Lot ſo bought ſhall be expoſed to Sale again.</item>
+               <item>
+                  <hi>II.</hi> That the Money for the Goods ſo bought is to be paid at the place of Sale within Three Days after the Sale is ended; but for the conveniency of them that deſire them ſooner, conſtant attendance will be given every day at the ſaid Place.</item>
+               <item>
+                  <hi>III.</hi> That all Gentlemen, Ladies, &amp;c. after the buying any Lot, will be pleaſed to give in their Names and Lodgings, at the Sale, otherwiſe to pay the third part of the Price, or the whole Money preſently for them, where upon payment of the remain<g ref="char:EOLhyphen"/>der within the time limited, the ſaid Goods ſhall be delivered to them or their Order, they paying Proterage if they deſire to have their Goods carried home.</item>
+               <item>
+                  <hi>IV.</hi> That no Perſon is to bid leſs than Six Pence a time for any Lot Expoſed to Sale.</item>
+            </list>
+         </div>
+         <div type="catalogue_of_paintings">
+            <pb n="2" facs="tcp:30962:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <list>
+               <head>CATALOG<g ref="char:V">Ʋ</g>E.</head>
+               <item>1 A Small Landskip by Robinſon</item>
+               <item>2 A Schoolmaſter very fine</item>
+               <item>3 a landskip in ſmall well done</item>
+               <item>4 a Bear-hunting after Hondius</item>
+               <item>5 a Sott well done</item>
+               <item>6 a landskip the figures by Wyck</item>
+               <item>7 a little Dog in a fine carved frame</item>
+               <item>8 a head by old Fuller</item>
+               <item>9 a Landskip in Limning well done</item>
+               <item>10 a ſmall <hi>Italian</hi> landskip</item>
+               <item>11 a pc of ſtill Life after Rooſtate</item>
+               <item>12 a Landsk. an orig. by an <hi>Italian</hi>
+               </item>
+               <item>13 Some Horſes an orig, by Movy</item>
+               <item>14 a little landsk. very fine</item>
+               <item>15 another ditto</item>
+               <item>16 K. <hi>W.</hi> and Q. <hi>M.</hi> very fine in little</item>
+               <item>17 a ſmall pc of Oyſters by the Life</item>
+               <item>18 a pc of ſtill Life with a pot of Anchovies</item>
+               <item>19 a Feſtoon of Flowers ¾ pc very fine</item>
+               <item>20 another ditto</item>
+               <item>21 a landsk. fit for a Chimney</item>
+               <item>22 a Partridge hanging by the Leg</item>
+               <item>23 a <hi>Pandora</hi> by an <hi>Italian</hi>
+               </item>
+               <item>24 <hi>Cleopatra</hi> curiouſly painted</item>
+               <item>25 General <hi>Monck</hi>
+               </item>
+               <item>26 a <hi>Flora</hi> after Smith</item>
+               <item>27 a pretty Droll by a good Mr.</item>
+               <item>28 <hi>Antony Moors</hi> head by Purbis</item>
+               <item>29 an orig. Landsk. with fig. by the beſt Brughell</item>
+               <item>30 an orig. landsk. with a Bowling-green and fig.</item>
+               <item>31 a little landsk. with Cowi an orig.</item>
+               <item>32 another ditto</item>
+               <item>33 a landsk. with ſheep on orig.</item>
+               <item>34 another ditto</item>
+               <item>35 a Mans head an orig. by Antony Moor</item>
+               <item>36 a Womans head ditto</item>
+               <item>37 a Moon-ſhine in little very fine</item>
+               <item>38 a Childs head an orig. by Antony Moor</item>
+               <item>39 K. <hi>W.</hi> well done</item>
+               <item>40 a landsk. by a <hi>Dutch</hi> Maſter</item>
+               <item>41 a <hi>Diana</hi> well done</item>
+               <item>42 <hi>Eliſha</hi> with Ravens very fine</item>
+               <item>43 a landsk. by Vandiſt</item>
+               <item>44 St. <hi>Peter</hi> fiſhing very fine</item>
+               <item>45 Q. <hi>Heſter</hi> and <hi>Ahaſuerus</hi> an orig. curiouſly painted</item>
+               <item>46 a pc of Cattle by Movy very fine</item>
+               <item>47 a landsk. by Wiſſlehaven</item>
+               <item>48 <hi>Jupiter</hi> and <hi>Juno</hi> after Goltius</item>
+               <item>49 a landsk. well done</item>
+               <item>50 another ditto</item>
+               <item>
+                  <pb n="3" facs="tcp:30962:2"/>
+                  <!-- PDF PAGE 8 -->
+51 a Droll well done</item>
+               <item>52 a head by old Fuller</item>
+               <item>53 K. <hi>W.</hi> and Q. <hi>M.</hi> by Kneller</item>
+               <item>54 an <hi>Indian</hi> Landsk. finely painted</item>
+               <item>55 ¾ Froſt pc by Vanderſtratton</item>
+               <item>56 a head by Jourdons</item>
+               <item>57 a half length landsk. an orig. by Tyſens</item>
+               <item>58 a landsk. with fig. very fine</item>
+               <item>59 Parſon <hi>Peters</hi> by Dobſon</item>
+               <item>60 The Lord <hi>Strafford</hi> by Corn. Johnſon</item>
+               <item>61 a dead Child by Brughell</item>
+               <item>62 an orig. landsk. prettily painted</item>
+               <item>63 a pc of Bread and Cheeſe very fine</item>
+               <item>64 K. <hi>W.</hi> and Q. <hi>M.</hi> in little ditto</item>
+               <item>65 a Drunkard by a <hi>Dutch</hi> Maſter</item>
+               <item>66 a Shepherd and Shepherdeſs curiouſly painted</item>
+               <item>67 a head by Sir <hi>Peter Lilly</hi>
+               </item>
+               <item>68 ditto by Zouſt</item>
+               <item>69 a Naked woman and a Soldier by Vanalſt</item>
+               <item>70 an Oval Winter-pc very fine</item>
+               <item>71 a Landsk. ditto</item>
+               <item>72 a Fire pc an orig. Adema</item>
+               <item>73 a hiſt. pc of the Child. of <hi>Iſrael</hi> gathering Manna</item>
+               <item>74 a half length landsk. by Mr. Loaton</item>
+               <item>75 an orig pc of Fruit by Vandermeer</item>
+               <item>76 a Sea-haven in ſmall curiouſly painted</item>
+               <item>77 an orig. pc of Fruit by Vandermeer</item>
+               <item>78 a landsk. finely painted</item>
+               <item>79 an original pc of Fruit by Vandermeer</item>
+               <item>80 a landsk. very fine</item>
+               <item>81 a Woman with a Parrot by a good Mr.</item>
+               <item>82 a Bear-hunting well painted</item>
+               <item>83 a dead Woman by Dobſon</item>
+               <item>84 <hi>Jacob</hi> and the Angel wreſtling</item>
+               <item>85 a <hi>Spaniſh</hi> Donna playing upon the Lute</item>
+               <item>86 <hi>Mary Magd.</hi> finely painted</item>
+               <item>87 <hi>Lucretia</hi> by a <hi>Dutch</hi> Maſter</item>
+               <item>88 a Battle after Mr. Wyck</item>
+               <item>89 a Stag-hunting after Hundius</item>
+               <item>90 a Rock after Griffeir</item>
+               <item>91 Rouſing of the Deer by Night</item>
+               <item>92 a pc of <hi>Dutch</hi> Boors</item>
+               <item>93 an orig. pc of Fruit by Vandermeer</item>
+               <item>94 a <hi>Dutch</hi> Fair full of Fig. curiouſly painted</item>
+               <item>95 an orig. pc of Fruit by Vandermeer</item>
+               <item>96 another ditto</item>
+               <item>97 a <hi>Dutch</hi> Fair full of Fig. curiouſly painted</item>
+               <item>98 a landsk. very fine</item>
+               <item>99 another ditto</item>
+               <item>100 a landsk. with Sun-riſing very fine</item>
+               <item>
+                  <pb n="4" facs="tcp:30962:3"/>
+                  <!-- PDF PAGE 9 -->
+101 a ſmall winter pc by Vanderſtraten</item>
+               <item>102 a little landsk. by a good Maſter</item>
+               <item>103 a pritty little winter pc</item>
+               <item>104 <hi>Pan</hi> and <hi>Syrinx</hi>
+               </item>
+               <item>105 a flower pot</item>
+               <item>106 a landsk. very fine</item>
+               <item>107 a ſea pc by Phiſher</item>
+               <item>108 an orig landsk. very fine</item>
+               <item>109 <hi>Ve<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> and <hi>Adonis</hi> well done</item>
+               <item>110 a landsk. by Ottonelt</item>
+               <item>111 a little landsk. well painted</item>
+               <item>112 a pc of <hi>Dutch</hi> boors</item>
+               <item>113 our Saviour taken from the Croſs an old orig.</item>
+               <item>114 a landsk. by Bruite</item>
+               <item>115 a landsk. the figures by Wyck</item>
+               <item>116 a ſea pc by Vandiſt</item>
+               <item>117 another ditto</item>
+               <item>118 3 qr. pc of Swans and Dogs very fine</item>
+               <item>119 3 qr. pc a feſtoon of Flowers</item>
+               <item>120 3 qr. pc of Swans and Dogs</item>
+               <item>121 an orig. landsk. very fine</item>
+               <item>122 3 qr. landsk. an orig.</item>
+               <item>123 a blind beggar and his boy</item>
+               <item>124 3 qr. fruit pc very fine</item>
+               <item>125 a head ſuppoſed by Vandyck</item>
+               <item>126 <hi>Hyppomenes</hi> giving <hi>Atlanta</hi> the boars head</item>
+               <item>127 a <hi>Muſcovy</hi> Embaſſador by Dobſon</item>
+               <item>128 D. of <hi>York</hi> half length i narmour by Wooters</item>
+               <item>129 a pc of ſtill Life after Rooſtatton</item>
+               <item>130 a drunkard after Brown</item>
+               <item>131 our Saviour after Vandyck</item>
+               <item>132 the Virgin <hi>Mary</hi> after Vandyck</item>
+               <item>133 a pc of hope well painted</item>
+               <item>134 <hi>Jephtha</hi> meeting his daughter an orig. by Caſteels</item>
+               <item>135 an orig. fire pc very fine</item>
+               <item>136 St. <hi>Jerome</hi> after Tintorett</item>
+               <item>137 an orig. landskip by an <hi>Italian</hi>
+               </item>
+               <item>138 another ditto</item>
+               <item>139 a woman half length an orig. by Corn. Johnſon</item>
+               <item>140 a landsk. in ſmall very fine</item>
+               <item>141 another ditto</item>
+               <item>142 a head by Corn. Johnſon</item>
+               <item>143 Dobſon ſuppoſed by Vandyck</item>
+               <item>144 a Girl after the Life</item>
+               <item>145 a boy by the ſame hand</item>
+               <item>146 the Lord <hi>Brounker</hi> by Lilly not finiſhed</item>
+               <item>147 a landsk. with figures</item>
+               <item>148 a pc of Fiſh from the life by Vanſom</item>
+               <item>149 a pc of fruit by Vandermeer</item>
+               <item>150 another ditto</item>
+               <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
